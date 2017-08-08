@@ -1,0 +1,431 @@
+@media screen and (max-width: 1300px){
+    .redline1 h1{
+        font-size: 20px;
+    }
+    .redline1 span{
+        font-size: 16px;
+    }
+    .redline2{
+        font-size: 11px;
+        margin-top: 29px;
+    }
+    .firstlinetext1{
+        font-size: 26px;
+        padding: 117px 92px;
+    }
+    .firstlinetext2{
+        font-size: 13px;
+        padding: 150px 92px;
+    }
+    .secondlinetext1{
+        font-size: 26px;
+        margin-left: 700px;
+        margin-top: 130px;
+    }
+    .secondlinetext2 {
+        font-size: 13px;
+        margin-left: 700px;
+        margin-top: 157px;
+    }
+    .thirdlinetext1{
+        font-size: 26px;
+        padding: 159px 92px;
+    }
+    .thirdlinetext2{
+        font-size: 13px;
+        padding: 195px 92px;
+    }
+    .lineSGR{
+        padding: 20px 0px;
+    }
+    .lineSGR h1{
+        font-size: 30px;
+    }
+    .lineSGR figcaption{
+        font-size: 15px;
+    }
+    .upslogo{
+        margin-left: 170px;
+    }
+    .upstxt{
+        font-size: 30px;
+        margin-left: 95px;
+    }
+    .fourthlineimage {
+        height: 400px;
+    }
+    .iconline img {
+        margin-left: 55px;
+    }
+
+}
+
+@media screen and (max-width: 1136px){
+    .block1 {
+        padding: 6px 80px;
+    }
+    .address-block div{
+        margin-right: 10px;}
+    .menu ul li{
+        font-size: 13px;
+    }
+    .sear{
+        font-size: 17px;}
+    .menu ul li:hover{
+        border-bottom: 4px;}
+
+    .block2{
+        padding: 25px 90px;
+    }
+    .info{
+        margin-right: -25px;
+    }
+    .firstline3{
+        width: 30%;
+    }
+    .firstline3 img{
+        padding-left: 28%;
+        padding-top: 42%;
+    }
+
+    .firstlinetext1{
+        font-size: 24px;
+        padding: 105px 70px;
+    }
+    .firstlinetext2{
+        font-size: 12px;
+        padding: 140px 70px;
+    }
+
+    .secondline2{
+        width: 31%;
+    }
+    .secondline2 img{
+        padding-left: 24%;
+        padding-top: 36%;
+    }
+
+    .secondlinetext1{
+        font-size: 24px;
+        margin-left: 640px;
+        margin-top: 120px;
+    }
+    .secondlinetext2{
+        font-size: 12px;
+        margin-left: 640px;
+        margin-top: 140px;
+    }
+
+    .thirdline2{
+        width: 32%;
+    }
+
+
+    .thirdlinetext1{
+        padding: 100px 70px;
+        font-size: 24px;
+            }
+    .thirdlinetext2{
+        padding: 145px 70px;
+        font-size: 12px;
+    }
+    .lineSGR{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .lineSGR h1{
+        font-size: 30px;
+    }
+
+    .lineSGR figcaption{
+        font-size: 14px;
+    }
+
+    .upsrental{
+        margin-top: 30px;
+        height: 165px;
+    }
+    .track{
+        width: 35%;
+    }
+    .upslogo{
+        width: 20%;
+        margin-top: 44px;
+
+    }
+    .upstxt{
+        font-size: 25px;
+        margin-left: 80px;
+        margin-top: 65px;
+    }
+    .fourthlineimage{
+        height: 360px;
+    }
+    .iconline{
+        padding: 30px 0px;
+    }
+    .iconline img{
+        margin-left: 40px;
+            }
+}
+@media screen and (max-width: 866px){
+    .address-block{
+        margin-left: 0px;
+    }
+    .block1{
+        padding: 8px 0px;
+    }
+}
+@media screen and (max-width: 960px){
+
+    .address-block{
+        margin-left: 13%;
+    }
+    .social-icons{
+        margin-left: 40%;
+        float: left;
+    }
+    .redline{
+        padding: 0px 0px;
+    }
+    .redline1 h1{
+        padding: 0px 0px;
+        margin-top: 0px;
+    }
+    .redline2{
+        margin-top: 0px;
+    }
+
+    .firstlinetext1{
+        font-size: 22px;
+        padding: 105px 57px;
+    }
+    .firstlinetext2{
+        font-size: 11px;
+        padding: 130px 60px;
+    }
+    .firstline3{
+        width: 35%;
+    }
+    .firstline3 img{
+        padding-left: 20%;
+        padding-top: 40%;
+    }
+
+    .secondline2{
+        width: 38%;
+    }
+    .secondline2 img{
+        padding-left: 20%;
+        padding-top: 31%;
+    }
+
+    .secondlinetext1{
+        font-size: 22px;
+        margin-top: 84px;
+        margin-left: 512px;
+    }
+    .secondlinetext2{
+        font-size: 11px;
+        margin-left: 512px;
+        margin-top: 108px;
+    }
+
+
+
+
+    .thirdlinetext1{
+        padding: 110px 34px;
+        font-size: 22px;
+    }
+    .thirdlinetext2{
+        padding: 140px 35px;
+        font-size: 11px;
+    }
+
+    .thirdline2{
+        width: 37%;
+    }
+    .thirdline2 img{
+        padding-left: 25%;
+        padding-top: 35%;
+    }
+
+    .lineSGR{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .lineSGR h1{
+        font-size: 30px;
+    }
+
+    .lineSGR figcaption{
+        font-size: 14px;
+    }
+
+    .upsrental{
+        margin-top: 29px;
+        height: 140px;
+    }
+    .track{
+        width: 35%;
+    }
+    .upslogo{
+        width: 20%;
+        margin-top: 44px;
+
+    }
+    .upstxt{
+        font-size: 25px;
+        margin-left: 75px;
+        margin-top: 60px;
+    }
+    .fourthlineimage{
+        height: 300px;
+    }
+    .fourthlineimage figcaption{
+        font-size: 16px;
+}
+    .iconline{
+        padding: 30px 0px;
+        display: inline-block;
+    }
+    .iconline img{
+        margin-left: 40px;
+    }
+    .iconline1{
+        margin-left: 17%;
+        display: inline-flex;
+    }
+    .iconline2{
+        margin-left: 22%;
+        display: inline-flex;
+    }
+
+}
+
+@media screen and (max-width: 926px){
+
+    .info{
+        margin-right: 15%;
+    }
+    .logo{
+        margin-left: 30%;
+    }
+
+}
+@media screen and (max-width: 916px){
+    .phone24{
+        float: none;
+        margin-top: 5%;
+    }
+    .safe{
+        float: none;
+        margin-right: 5%;
+    }
+    .green{
+        margin-left: 5%;
+    }
+
+}
+@media screen and (max-width: 863px){
+    .redline1{
+        margin-left: 5%;
+
+    }
+    .redline2{
+        margin-right: 5%;
+    }
+    .firstlineimg{
+        display: block;
+    }
+    .firstline2 img{
+        width: 50%;
+    }
+    .thirdline2, .firstline3{
+        display: inline-flex;
+    }
+    .firstline3 img{
+        padding-left: 50%;
+        padding-top: 65%;
+    }
+
+    .secondlineimg{
+        display: block;
+    }
+
+    .secondline1 img{
+        width: 50%;
+    }
+    .secondline2 img{
+        padding-left: 35%;
+        padding-top: 40%;
+    }
+    .secondline2 {
+        float: right;
+        width: 50%;
+    }
+    .secondlinetext1{
+        font-size: 25px;
+        margin-top: 84%;
+        margin-left: 18%;
+    }
+    .secondlinetext2{
+        font-size: 14px;
+        margin-left: 18%;
+        margin-top: 87%;
+    }
+    .thirdlineimg{
+        display: block
+    }
+
+    .thirdline2{
+        width: 50%;
+        float: left;
+
+    }
+    .thirdline3{
+        width: 50%;
+        float: right;
+    }
+
+    .thirdline2 img{
+        padding-left: 39%;
+        padding-top: 41%;
+        margin-bottom: 62.4%;
+    }
+    .thirdline2, thirdline3{
+        display: flex;
+    }
+
+    .fourthlineimage{
+        height: 285px;
+    }
+    .upsrental{
+        height: 126px;
+    }
+    .upstxt{
+        font-size: 22px;
+        margin-left: 48px;
+        margin-top: 59px;
+    }
+
+    .firstlinetext2{
+        font-size: 15px;
+        padding: 150px 85px;
+    }
+    .thirdlinetext1{
+        font-size: 30px;
+        padding: 105px 82px;
+    }
+    .thirdlinetext2{
+        padding: 190px 83px;
+        font-size: 15px;
+    }
+    .thirdlinetext1{
+        
+    }
+}
+
+
+
